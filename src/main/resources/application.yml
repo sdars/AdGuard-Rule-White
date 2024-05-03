@@ -110,7 +110,7 @@ application:
       - 'https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt' #name: adblock_list
       - 'https://big.oisd.nl/' #name: oisd
       #- 'https://nsfw.oisd.nl/' #name: nsfw
-      - 'https://adguardteam.github.io/HostlistsRegistry/assets/filter_37.txt' #name: HostlistsRegistry
+      #- 'https://adguardteam.github.io/HostlistsRegistry/assets/filter_37.txt' #name: HostlistsRegistry会屏蔽YouTube
       - 'https://raw.gitmirror.com/lingeringsound/10007/main/adb.txt' #name: lingeringsound
       - 'https://file-git.trli.club/Domains/AccelerateHosts/github-hosts.txt' #name: AccelerateHosts
       - 'https://raw.hellogithub.com/hosts' #name: hellogithub
