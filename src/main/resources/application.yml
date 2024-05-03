@@ -100,6 +100,12 @@ application:
       - 'http://rssv.cn/adguard/api.php?type=host' #name: 晴雅
       - 'http://rssv.cn/adguard/api.php?type=dns' #name: 晴雅DNS
       - 'https://raw.githubusercontent.com/ppfeufer/adguard-filter-list/master/blocklist' #name: ppfeufer
+      - 'https://raw.githubusercontent.com/8680/GOODBYEADS/master/rules.txt' #name: GOODBYEADS
+      - 'https://adrules.top/dns.txt' #name: adrules
+      - 'https://github.com/Potterli20/file/releases/download/github-hosts/Accelerate-Hosts.txt' #name: Potterli20
+      - 'https://raw.githubusercontent.com/lingeringsound/10007_auto/master/reward' #name: lingeringsound
+      - 'https://raw.githubusercontent.com/5whys-adblock/AdGuardHome-rules/main/rules/output_full.txt' #name: 5whys-adblock
+      - 'https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt' #name: 217heidai
     #本地规则
     local: #本地规则请将文件移动到项目路径rule目录中
       - 'mylist.txt'
