@@ -68,14 +68,31 @@ application:
       - 'https://gitcdn.link/cdn/uBlockOrigin/uAssetsCDN/main/filters/unbreak.txt' #name: uBlock filters – Unbreak
       - 'https://filters.adtidy.org/extension/ublock/filters/11.txt' #name: AdGuard Mobile Ads移动设备
       #神殿规则
-      - 'https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/all.txt' #name: BlueSkyXN主规则1
-      - 'https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/skyrules.txt' #name: BlueSkyXN主规则2
-      - 'https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/ok.txt' #name: BlueSkyXN主规则3
-      - 'https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/manhua.txt' #name: BlueSkyXN动漫&漫画网站定制规则1
-      - 'https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/manhua-plus.txt' #name: BlueSkyXN动漫&漫画网站定制规则2
-      - 'https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/manhua-max.txt' #name: BlueSkyXN动漫&漫画网站定制规则3
-      - 'https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/ubcn.txt' #name: BlueSkyXNUBCN补充规则
-      - 'https://raw.githubusercontent.com/zsakvo/AdGuard-Custom-Rule/master/rule/zhihu-strict.txt' #name: 知乎
+      #- 'https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/all.txt' #name: BlueSkyXN主规则1
+      #- 'https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/skyrules.txt' #name: BlueSkyXN主规则2
+      #- 'https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/ok.txt' #name: BlueSkyXN主规则3
+      #- 'https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/manhua.txt' #name: BlueSkyXN动漫&漫画网站定制规则1
+      #- 'https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/manhua-plus.txt' #name: BlueSkyXN动漫&漫画网站定制规则2
+      #- 'https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/manhua-max.txt' #name: BlueSkyXN动漫&漫画网站定制规则3
+      #- 'https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/ubcn.txt' #name: BlueSkyXNUBCN补充规则
+      - 'https://easylist-downloads.adblockplus.org/easylist.txt' #name: EasyList
+      - 'https://easylist-downloads.adblockplus.org/easylistchina.txt' #name: EasyList China
+      - 'https://easylist-downloads.adblockplus.org/easyprivacy.txt' #name: EasyPrivacy
+      - 'https://easylist-downloads.adblockplus.org/easylist-cookie.txt' #name: EasyList Cookie List
+      - 'https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt' #name: Anti-AD
+      - 'https://www.i-dont-care-about-cookies.eu/abp/' #name: I don't care about cookies
+      - 'https://raw.githubusercontent.com/zsakvo/AdGuard-Custom-Rule/master/rule/zhihu.txt' #name: Zhihu Filter Basic
+      - 'https://raw.githubusercontent.com/zsakvo/AdGuard-Custom-Rule/master/rule/zhihu-strict.txt' #name: Zhihu Filter Strict
+      - 'https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts' #name: 1024_hosts
+      - 'https://adaway.org/hosts.txt' #name: AdAway
+      - 'https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts' #name: ad-wars
+      - 'https://raw.githubusercontent.com/googlehosts/hosts/master/hosts-files/hosts' #name: Google hosts
+      - 'https://hblock.molinero.dev/hosts' #name: Hblock
+      - 'http://winhelp2002.mvps.org/hosts.txt' #name: Mvps
+      - 'https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/basic/hosts.txt' #name: neoHosts Basic
+      - 'https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/full/hosts.txt' #name: neoHosts Full
+      - 'https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts' #name: StevenBlack
+      - 'https://raw.githubusercontent.com/yous/YousList/master/hosts.txt' #name: YousList
       - 'https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts.txt' #name: YHost
       - 'https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt' #name: CJX's Annoyance List
       - 'https://easylist-downloads.adblockplus.org/easylistchina.txt' #name: EasyList China
