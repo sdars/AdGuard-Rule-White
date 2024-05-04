@@ -97,8 +97,8 @@ application:
       - 'https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt' #name: CJX's Annoyance List
       - 'https://easylist-downloads.adblockplus.org/easylistchina.txt' #name: EasyList China
       - 'https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt' #name: 秋风
-      - 'http://rssv.cn/adguard/api.php?type=host' #name: 晴雅
-      - 'http://rssv.cn/adguard/api.php?type=dns' #name: 晴雅DNS
+      - 'https://lingmao.655618.xyz/jiaoben/adg/%E6%99%B4%E9%9B%85/hosts.php' #name: 晴雅
+      - 'https://lingmao.655618.xyz/jiaoben/adg/%E6%99%B4%E9%9B%85/dns.php' #name: 晴雅DNS
       - 'https://raw.githubusercontent.com/ppfeufer/adguard-filter-list/master/blocklist' #name: ppfeufer
       - 'https://raw.githubusercontent.com/8680/GOODBYEADS/master/rules.txt' #name: GOODBYEADS
       - 'https://adrules.top/dns.txt' #name: adrules
