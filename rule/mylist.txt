@@ -138,3 +138,5 @@
 @@||hdslb.com
 #腾讯
 @@||tencent.com^
+#谷歌系
+@@||translate.google.com^
