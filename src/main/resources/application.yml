@@ -122,6 +122,16 @@ application:
       - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt' #name: AdGuard Chinese filter
       - 'https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt' #name: 1Hosts (Lite)
       - 'https://hblock.molinero.dev/hosts_adblock.txt' #name: Hblock
+      - 'https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_adblocker' #name: NEO DEV HOST
+      - 'https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV-AGH.txt' #name: SmartTV Blocklist
+      - 'https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt' #name: Fanboy’s Annoyances List
+      - 'https://www.malwaredomainlist.com/hostslist/hosts.txt' #name: Malware Domain List
+      - 'https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts' #name: StevenBlack
+      - 'https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/Hosts.txt' #name: iOSAdblockList
+      - 'https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts' #name: Great Sage Purification
+      - 'https://banbendalao.coding.net/p/adgk/d/ADgk/git/raw/master/ADgk.txt' #name: ADgk
+      - 'https://easylist-downloads.adblockplus.org/fanboy-social.txt' #name: Fanboy's Social Blocking List
+      - 'https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt' #name: CJX's EasyList Lite
     #本地规则
     local: #本地规则请将文件移动到项目路径rule目录中
       - 'mylist.txt'
