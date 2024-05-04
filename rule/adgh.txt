@@ -1,4 +1,4 @@
-# Update time: 2024-05-04 18:43:14
+# Update time: 2024-05-04 19:45:18
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -78,6 +78,7 @@
 @@||chrome-infra-packages.appspot.com^$important
 @@||hdslb.com
 @@||studcat.infra.systems^$important
+@@||translate.google.com^
 @@||ii.gdt.qq.com^$important
 @@||collector.githubapp.com^$important
 @@||hao123.com^$important
