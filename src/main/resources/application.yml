@@ -110,14 +110,28 @@ application:
       - 'https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt' #name: adblock_list
       - 'https://big.oisd.nl/' #name: oisd
       #- 'https://nsfw.oisd.nl/' #name: nsfw
-      #- 'https://adguardteam.github.io/HostlistsRegistry/assets/filter_37.txt' #name: HostlistsRegistry会屏蔽YouTube
+      #- 'https://adguardteam.github.io/HostlistsRegistry/assets/filter_37.txt' #name: noGoogle会屏蔽Google系产品
       - 'https://raw.gitmirror.com/lingeringsound/10007/main/adb.txt' #name: lingeringsound
       - 'https://file-git.trli.club/Domains/AccelerateHosts/github-hosts.txt' #name: AccelerateHosts
       - 'https://raw.hellogithub.com/hosts' #name: hellogithub
-      - 'https://raw.githubusercontent.com/samyansan/AdGuard-One/main/adguard.txt' #name: samyansan
+      - 'https://raw.githubusercontent.com/samyansan/AdRules-SamYan/master/ad.txt' #name: samyansan
       - 'https://malware-filter.gitlab.io/phishing-filter/phishing-filter-agh.txt' #name: phishing-filter
       - 'https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-pc.txt' #name: o0HalfLife0o
       - 'https://raw.githubusercontent.com/liwenjie119/adg-rules/master/black.txt' #name: liwenjie119
+      - 'https://raw.githubusercontent.com/CodeSapiens/AdGuard-filters/main/BlockList.txt' #name: CodeSapiens
+      - 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt' #name: AdGuard Chinese filter
+      - 'https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt' #name: 1Hosts (Lite)
+      - 'https://hblock.molinero.dev/hosts_adblock.txt' #name: Hblock
+      - 'https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_adblocker' #name: NEO DEV HOST
+      - 'https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV-AGH.txt' #name: SmartTV Blocklist
+      - 'https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt' #name: Fanboy’s Annoyances List
+      - 'https://www.malwaredomainlist.com/hostslist/hosts.txt' #name: Malware Domain List
+      - 'https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts' #name: StevenBlack
+      - 'https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/Hosts.txt' #name: iOSAdblockList
+      - 'https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts' #name: Great Sage Purification
+      - 'https://banbendalao.coding.net/p/adgk/d/ADgk/git/raw/master/ADgk.txt' #name: ADgk
+      - 'https://easylist-downloads.adblockplus.org/fanboy-social.txt' #name: Fanboy's Social Blocking List
+      - 'https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt' #name: CJX's EasyList Lite
     #本地规则
     local: #本地规则请将文件移动到项目路径rule目录中
       - 'mylist.txt'
