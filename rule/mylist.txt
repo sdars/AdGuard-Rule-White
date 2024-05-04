@@ -136,3 +136,5 @@
 @@||wgo.mmstat.com^$important
 @@||app-monitor.ele.me^$important
 @@||hdslb.com
+# ------------腾讯-------------------
+@@||tencent.com^
