@@ -12,7 +12,7 @@ application:
   rule:
     #远程规则
     remote:
-      - 'https://raw.githubusercontent.com/ChengJi-e/AFDNS/master/QD.txt' #name: DNS允许白名单
+      - 'https://cdn.jsdelivr.net/gh/hoshsadiq/adblock-nocoin-list/hosts.txt'  #adblock-nocoin-list
     #本地规则
     local: #本地规则请将文件移动到项目路径rule目录中
       - 'mylist.txt'
