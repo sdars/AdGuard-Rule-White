@@ -132,6 +132,22 @@ application:
       - 'https://banbendalao.coding.net/p/adgk/d/ADgk/git/raw/master/ADgk.txt' #name: ADgk
       - 'https://easylist-downloads.adblockplus.org/fanboy-social.txt' #name: Fanboy's Social Blocking List
       - 'https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt' #name: CJX's EasyList Lite
+      - 'https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock.txt' #name: 杏稍AdRules AdBlock List
+      - 'https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_lite.txt' #name: 杏稍AdRules AdBlock List Lite
+      - 'https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt' #name: 杏稍AdRules AdBlock List Plus
+      - 'https://raw.githubusercontent.com/reek/anti-adblock-killer/blob/master/anti-adblock-killer-filters.txt' #name: anti-adblock-killer-filters
+      - 'https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-pc.txt' #name: ABP/ublock订阅规则ad-pc
+      - 'https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt' #name: ABP/ublock订阅规则ad
+      - 'https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-edentw.txt' #name: ABP/ublock订阅规则edentw
+      - 'https://raw.githubusercontent.com/Maasea/sgmodule/master/YouTube.Enhance.sgmodule' #name: 去油管广告
+      - 'https://raw.githubusercontent.com/Maasea/sgmodule/master/Bilibili.Helper.sgmodule' #name: 去bilibili广告
+      - 'https://raw.githubusercontent.com/Maasea/sgmodule/master/KeepAds.sgmodule' #name: 去keep广告
+      - 'https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_lite.txt' #name: adblock_list
+      - 'https://raw.githubusercontent.com/sbwml/halflife-list/master/ad-pc.txt' #name: halflife
+      - 'https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_privacy.txt' #name: adblock_privacy
+      - 'https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/DD-AD.txt' #name: DD-AD
+      - 'https://raw.githubusercontent.com/xndeye/adblock_list/main/rule/private.txt' #name: xndeye
+      - 'https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt' #name: NoAppDownload
     #本地规则
     local: #本地规则请将文件移动到项目路径rule目录中
       - 'mylist.txt'
