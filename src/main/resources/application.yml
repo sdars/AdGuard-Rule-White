@@ -1,6 +1,6 @@
 spring:
   application:
-    名字: adg-rule
+    名字: AdGuard-Rule-White
   profiles:
     已激活: prod  #切换至 dev 即可输出调试信息
 
