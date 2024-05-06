@@ -140,3 +140,5 @@
 @@||tencent.com^
 #谷歌系
 @@||translate.google.com^
+#云服务器商系列
+@@||sjys6.de^
