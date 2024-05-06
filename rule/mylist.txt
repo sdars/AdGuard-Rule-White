@@ -141,4 +141,5 @@
 #谷歌系
 @@||translate.google.com^
 #云服务器商系列
+# 三金云
 @@||sjys6.de^
