@@ -1,4 +1,4 @@
-# Update time: 2024-05-09 20:20:57
+# Update time: 2024-05-10 08:53:22
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -1286,6 +1286,7 @@ ncsi.6-c-0003.c-msedge.net
 pages.uc.cn
 chong.qq.com
 f2.market.mi-img.com
+gateway.kugou.com
 outlook.office365.com
 public.gdtimg.com
 img03.sogoucdn.com
