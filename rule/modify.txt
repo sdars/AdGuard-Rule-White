@@ -1,4 +1,4 @@
-# Update time: 2024-05-11 20:19:54
+# Update time: 2024-05-11 22:29:07
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -50,10 +50,3 @@
 @@||login.bce.baidu.com^$domain=login.bce.baidu.com
 @@||console.bce.baidu.com^$domain=console.bce.baidu.com
 #
-*.a.market.xiaomi.com
-*.getui.com
-*.tailscale.com
-*.kwaicdn.com
-*.a.kwimgs.com
-*.d.meituan.net
-*.wikipedia.org
