@@ -145,3 +145,14 @@
 @@||sjys6.de^
 # 三金云支付
 @@||pay.sjys6.top^
+
+# 查询IP服务
+@@||ipinfo.io^$important
+# Alist工具相关服务
+@@||*.nn.ci^$important
+# 常见JS文件缓存
+@@||cdn.staticfile.org^$important
+# 微软游戏正版验证
+# 未知 @@||device.auth.xboxlive.com^$important
+@@||title.mgt.xboxlive.com^$important
+
