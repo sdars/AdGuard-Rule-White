@@ -153,6 +153,6 @@
 # 常见JS文件缓存
 @@||cdn.staticfile.org^$important
 # 微软游戏正版验证
-# 未知 @@||device.auth.xboxlive.com^$important
+@@||device.auth.xboxlive.com^$important
 @@||title.mgt.xboxlive.com^$important
 
