@@ -156,3 +156,6 @@
 @@||device.auth.xboxlive.com^$important
 @@||title.mgt.xboxlive.com^$important
 
+# telegram图床
+@@||telegra.ph^$important
+
