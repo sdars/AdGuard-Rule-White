@@ -1,4 +1,4 @@
-# Update time: 2024-06-02 08:58:46
+# Update time: 2024-06-02 17:47:10
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -146,6 +146,7 @@
 @@||www.googletagmanager.com^$important
 @@||d2.yiche.com^$important
 @@||tencent.com^
+@@||telegra.ph^$important
 @@||dldir3.qq.com^$important
 @@||ios.bugly.qq.com^$important
 @@||iadsdk.apple.com^$important
