@@ -1,4 +1,4 @@
-# Update time: 2024-07-16 08:59:17
+# Update time: 2024-07-16 20:25:18
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -167,6 +167,7 @@
 @@||c.y.qq.com^
 @@||broadcastlv.chat.bilibili.com^
 @@||shminorshort.weixin.qq.com^
+@@||data.sec.miui.com^
 @@||fp-it.fengkongcloud.com^
 @@||support.weixin.qq.com^
 @@||waimai-guide.ele.me^
