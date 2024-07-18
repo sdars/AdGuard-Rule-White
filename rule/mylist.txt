@@ -158,4 +158,78 @@
 
 # telegram图床
 @@||telegra.ph^$important
+# 聚合图床
+files.superbed.cc
+# 手机百度图片
+t11.baidu.com
+# 阿里CDN---夸克
+g.alicdn.com
+at.alicdn.com
+b.alicdn.com
+astyle.alicdn.com
+img.alicdn.com
+gw.alicdn.com
+# 手机淘宝
+img-dt.alicdn.com
+# 小米社区
+web.vip.miui.com
+api.vip.miui.com
+# X媒体库
+pbs.twimg.com
+# RePocket网赚
+repocket.co
+link.repocket.co
+# 123盘
+statics.123pan.com
+# 谷歌账号管理---俄罗斯
+accounts.google.ru
+# 谷歌语音助理识别语音
+footprints-pa.googleapis.com
+# ADGuard邮箱认证
+email-link.adtidy.org
+# 饿了么详情页
+alsc-buy2.ele.me
+# Color OS 天气
+weather-server-gl.allawntech.com
+# Color OS 连通性检测
+conn-service-cn-05.allawntech.com
+# Oxygen OS 天气
+weather-server.allawnos.com
+icota-service-eu.allawnos.com
+# Oxygen OS 连通性检测
+conn-service-us-05.allawnos.com
+# 淘宝精选-芭芭农场肥料任务
+ku.m.taobao.com
+# 永硕E盘
+ysupan.com
+# 抖音图片
+p*.douyinpic.com
+# 小米天气
+weatherapi.market.xiaomi.com
+# 番茄小说福利页
+lf-sourcecdn-tos.bytegecko.com
+# 高德导航
+mapdownload.autonavi.com
+dualstack-mpsapi.amap.com
+webapi.amap.com
+mps.amap.com
+# QQ表情包
+i.gtimg.cn
+# 爱奇艺网站图片
+pic*.iqiyipic.com
+# 快手极速版赚钱
+nebula.kuaishou.com
+s*.kskwai.com
+# 图片
+image.winudf.com
+# ApkPure下载
+d-05.winudf.com
+d-*.winudf.com
+# 饿了么登录
+ipassport.ele.me
+# 火山引擎
+lf-cdn-tos.bytescm.com
+# BIUBIU加速器
+mtop.biubiu001.com
+member.biubiu001.com
 
