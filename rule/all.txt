@@ -1,4 +1,4 @@
-# Update time: 2024-08-22 09:00:47
+# Update time: 2024-08-22 20:24:44
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -204,6 +204,27 @@ mtop.biubiu001.com
 @@||disneyplus.bn5x.net^$important
 @@||clients6.google.com^$important
 @@||www.hao123.com^$important
+@@||cnlogin.cainiao.com^
+@@||qlogo.cn^
+@@||login.bce.baidu.com^$domain=login.bce.baidu.com
+@@||acs.m.taobao.com^
+@@||gma.alicdn.com^
+@@||zhuti.xiaomi.com^
+@@||c.y.qq.com^
+@@||broadcastlv.chat.bilibili.com^
+@@||shminorshort.weixin.qq.com^
+@@||data.sec.miui.com^
+@@||fp-it.fengkongcloud.com^
+@@||support.weixin.qq.com^
+@@||waimai-guide.ele.me^
+@@||inews.gtimg.com^
+@@||wl.jd.com^
+@@||cdn.bootcdn.net^
+@@||cstaticdun.126.net^
+@@||tracker.ai.xiaomi.com^
+@@||console.bce.baidu.com^$domain=console.bce.baidu.com
+@@||ap6.ssl.msdk.qq.com^
+@@||puui.qpic.cn^
 0.0.0.0 seed.nimiq.jp
 0.0.0.0 de-mi-nis-ner.info
 0.0.0.0 ninaning.com
@@ -614,24 +635,3 @@ mtop.biubiu001.com
 0.0.0.0 renhertfo.com
 0.0.0.0 webminerpool.com
 0.0.0.0 thewhizmarketing.com
-@@||cnlogin.cainiao.com^
-@@||qlogo.cn^
-@@||login.bce.baidu.com^$domain=login.bce.baidu.com
-@@||acs.m.taobao.com^
-@@||gma.alicdn.com^
-@@||zhuti.xiaomi.com^
-@@||c.y.qq.com^
-@@||broadcastlv.chat.bilibili.com^
-@@||shminorshort.weixin.qq.com^
-@@||data.sec.miui.com^
-@@||fp-it.fengkongcloud.com^
-@@||support.weixin.qq.com^
-@@||waimai-guide.ele.me^
-@@||inews.gtimg.com^
-@@||wl.jd.com^
-@@||cdn.bootcdn.net^
-@@||cstaticdun.126.net^
-@@||tracker.ai.xiaomi.com^
-@@||console.bce.baidu.com^$domain=console.bce.baidu.com
-@@||ap6.ssl.msdk.qq.com^
-@@||puui.qpic.cn^
