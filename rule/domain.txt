@@ -1,4 +1,4 @@
-# Update time: 2025-01-18 09:03:16
+# Update time: 2025-01-18 16:04:19
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -145,6 +145,7 @@ nebula.kuaishou.com
 @@||pingjs.qq.com^$important
 weather-server-gl.allawntech.com
 @@||api.sec.miui.com^$important
+@@||static.cloudflareinsights.com^$important
 @@||get.sogou.com^$important
 @@||m.hao123.com^$important
 @@||myquark.cn^$important
