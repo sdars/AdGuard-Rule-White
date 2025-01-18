@@ -49,6 +49,7 @@
 @@||uc.cn^$important
 
 # ------------AdGuard Home放行-------------------
+@@||static.cloudflareinsights.com^$important
 @@||www.google-analytics.com^$important
 @@||clients6.google.com^$important
 @@||clients4.google.com^$important
