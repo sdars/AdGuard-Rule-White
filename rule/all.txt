@@ -1,4 +1,4 @@
-# Update time: 2026-09-12 10:57:36
+# Update time: 2026-09-12 22:55:50
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -308,7 +308,6 @@ mtop.biubiu001.com
 0.0.0.0 coinblind.com
 0.0.0.0 www.webmine.cz
 0.0.0.0 cnhv.co
-0.0.0.0 go.fastspot.io
 0.0.0.0 stonecalcom.com
 0.0.0.0 depttake.ga
 0.0.0.0 webapi.staging.salamantex.com
